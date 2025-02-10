@@ -1,6 +1,8 @@
 # 👋 Hey there!:
 I'm Shreya Boyane<br>🚀 AI Researcher | ML Engineer | Healthcare + LLMs Enthusiast<br><br>🔭 I’m currently working on Large Language Models in Healthcare under Prof. Shraga.<br>👯 I’m looking to collaborate on LLMs, Diffusion Models, and AI for Good projects.<br>🤝 I’m looking for help with optimizing deep learning models for efficiency & scalability.<br>🌱 I’m currently learning how to make AI models smarter, faster, and less hallucination-prone.<br>💬 Ask me about LLMs, Deep Learning, or why GANs are jealous of Diffusion Models.<br>⚡ Fun fact: My GPU runs hotter than my coffee.<br><br>Let’s connect and build something awesome! 🚀
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreya-boyane/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyaa.boyane@gmail.com) 
@@ -58,6 +60,5 @@ I'm Shreya Boyane<br>🚀 AI Researcher | ML Engineer | Healthcare + LLMs Enthus
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sonica-B&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
 
