@@ -82,7 +82,7 @@ Before WPI, I spent two years as a <b>Lead DevOps Engineer at Persistent Systems
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/1st%20place%20medal/3D/1st_place_medal_3d.png" width="56"/>
 <br/><b>NVIDIA GTC 2026</b><br/>
 <sub>Honorable Mention</sub><br/>
-<sub><i>Einstein Vision, 3D AV perception + TensorRT FP16</i></sub>
+<sub><i> Recognized in the Google Cloud x NVIDIA developer community for inference-optimization engagement across three completed learning pathways.</i></sub>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Graduation%20cap/3D/graduation_cap_3d.png" width="56"/>
