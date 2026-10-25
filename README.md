@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/Sonica-B">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,30:9333EA,60:E100FF,100:00C9FF&height=280&section=header&text=Shreya%20Boyane&fontColor=ffffff&fontSize=78&fontAlignY=34&desc=ML%20Research%20Engineer%20%C2%B7%20LLM%20Evals%20%C2%B7%20Interpretability&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Shreya Boyane banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,30:9333EA,60:E100FF,100:00C9FF&height=280&section=header&text=Shreya%20Boyane&fontColor=ffffff&fontSize=78&fontAlignY=34&desc=Machine%20Learning%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20LLMs%20%C2%B7%20Computer%20Vision&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Shreya Boyane banner"/>
 </a>
 
 <a href="https://github.com/Sonica-B">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=A06CFF&center=true&vCenter=true&multiline=false&width=900&height=48&lines=M.S.+Artificial+Intelligence+%40+WPI+%C2%B7+GPA+3.97+%C2%B7+May+2026;NVIDIA+GTC+2026+Honorable+Mention+%C2%B7+Einstein+Vision;Co-first+author+%C2%B7+ICML+2026+FoGen+Workshop+paper;Frontier+model+evals+%40+Handshake+AI;2+yrs+Lead+DevOps+%40+Persistent+%C2%B7+Top+Talent+2024" alt="Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=A06CFF&center=true&vCenter=true&multiline=false&width=900&height=48&lines=M.S.+Artificial+Intelligence+%40+WPI+%C2%B7+GPA+3.97+%C2%B7+May+2026;NVIDIA+GTC+2026+Honorable+Mention+%C2%B7+Einstein+Vision;Co-first+author+%C2%B7+ICML+2026+FoGen+Workshop+paper;AI+Trainer+Fellow+%40+Handshake+AI;2+yrs+Lead+DevOps+%40+Persistent+%C2%B7+Top+Talent+2024" alt="Tagline"/>
 </a>
 
 <br/><br/>
@@ -32,12 +32,12 @@
 
 <h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Waving%20hand/Default/3D/waving_hand_3d_default.png" width="32" align="center"/>&nbsp; About</h2>
 
-I am an ML research engineer in San Jose, CA. As an <b>AI Trainer Fellow at Handshake AI</b> I build long-horizon evaluation environments for frontier models. I am <b>co-first author</b> of <b>Interpreting Latent CoT Reasoning as Dynamical Systems</b> (<a href="https://arxiv.org/abs/2607.09698">arXiv 2607.09698</a>, poster at the <a href="https://icml.cc/virtual/2026/70325">ICML 2026 FoGen Workshop</a>). I hold an <b>M.S. in Artificial Intelligence from WPI</b> (May 2026, GPA 3.97). My work spans <b>mechanistic interpretability</b> of latent chain of thought, <b>TensorRT-optimized 3D perception</b>, and <b>multi-agent LLM pipelines</b> that ship.
+I am a machine learning engineer in San Jose, CA, building LLM systems and AI agents, computer vision pipelines and production ML infrastructure. As an <b>AI Trainer Fellow at Handshake AI</b> I build evaluation environments for frontier models. I am <b>co-first author</b> of <b>Interpreting Latent CoT Reasoning as Dynamical Systems</b> (<a href="https://arxiv.org/abs/2607.09698">arXiv 2607.09698</a>, poster at the <a href="https://icml.cc/virtual/2026/70325">ICML 2026 FoGen Workshop</a>). I hold an <b>M.S. in Artificial Intelligence from WPI</b> (May 2026, GPA 3.97). My work spans <b>mechanistic interpretability</b> of latent chain of thought, <b>TensorRT-optimized 3D perception</b>, and <b>multi-agent LLM pipelines</b> that ship.
 
 Before WPI, I spent two years as a <b>Lead DevOps Engineer at Persistent Systems</b> (<b>Top Talent 2024</b>, <b>Bravo Individual Award</b>), owning CI/CD and AWS/Azure infrastructure across <b>20+ production projects</b> with a <b>95% deploy-speed improvement</b>. That production instinct is the thing I bring to research: pipelines that do not break, checkpoints that do not get lost, results that are reproducible <b>28 out of 28 times</b>.
 
 <p>
-<img src="https://img.shields.io/badge/Currently-Frontier%20model%20evals%20%40%20Handshake%20AI-A06CFF?style=flat-square&labelColor=2D1B69"/>
+<img src="https://img.shields.io/badge/Currently-AI%20Trainer%20Fellow%20%40%20Handshake%20AI-A06CFF?style=flat-square&labelColor=2D1B69"/>
 <img src="https://img.shields.io/badge/Open%20to-Full--time%20roles-E100FF?style=flat-square&labelColor=2D1B69"/>
 </p>
 
@@ -408,7 +408,7 @@ Multi-agent system using <b>LangGraph + Amazon Bedrock RAG</b>, AWS Step Functio
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Microscope/3D/microscope_3d.png" width="48"/>
 <br/><b>Research Engineer</b><br/>
-<sub>LLM evals, interpretability</sub>
+<sub>LLM research, interpretability</sub>
 </td>
 </tr>
 <tr>
