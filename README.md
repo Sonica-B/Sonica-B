@@ -1,19 +1,11 @@
-<!--
-  Shreya Boyane :: GitHub profile README
-  Keywords: Machine Learning Engineer, AI Engineer, MS Artificial Intelligence WPI,
-  NVIDIA GTC 2026, Algoverse Research Fellow, Latent CoT, mechanistic interpretability,
-  ICML workshop, LLM, diffusion models, CycleGAN, TensorRT, CUDA, inference optimization,
-  computer vision, multimodal, PyTorch, Research Engineer, Forward Deployed Engineer.
--->
-
 <div align="center">
 
 <a href="https://github.com/Sonica-B">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,30:9333EA,60:E100FF,100:00C9FF&height=280&section=header&text=Shreya%20Boyane&fontColor=ffffff&fontSize=78&fontAlignY=34&desc=ML%20Engineer%20%C2%B7%20AI%20Researcher%20%C2%B7%20Inference%20Optimization&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Shreya Boyane banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,30:9333EA,60:E100FF,100:00C9FF&height=280&section=header&text=Shreya%20Boyane&fontColor=ffffff&fontSize=78&fontAlignY=34&desc=ML%20Research%20Engineer%20%C2%B7%20LLM%20Evals%20%C2%B7%20Interpretability&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Shreya Boyane banner"/>
 </a>
 
 <a href="https://github.com/Sonica-B">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=A06CFF&center=true&vCenter=true&multiline=false&width=900&height=48&lines=MS+Artificial+Intelligence+%40+WPI+%C2%B7+GPA+3.97+%C2%B7+May+2026;NVIDIA+GTC+2026+Honorable+Mention+%C2%B7+Einstein+Vision;Algoverse+AI+Research+Fellow+%C2%B7+Latent-CoT+Interpretability;ICML+2026+Workshop+Submission+%C2%B7+VLM+Physical+Reasoning;2+yrs+Lead+DevOps+%40+Persistent+%C2%B7+Top+Talent+2024" alt="Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=A06CFF&center=true&vCenter=true&multiline=false&width=900&height=48&lines=M.S.+Artificial+Intelligence+%40+WPI+%C2%B7+GPA+3.97+%C2%B7+May+2026;NVIDIA+GTC+2026+Honorable+Mention+%C2%B7+Einstein+Vision;Co-first+author+%C2%B7+ICML+2026+FoGen+Workshop+paper;Frontier+model+evals+%40+Handshake+AI;2+yrs+Lead+DevOps+%40+Persistent+%C2%B7+Top+Talent+2024" alt="Tagline"/>
 </a>
 
 <br/><br/>
@@ -40,13 +32,13 @@
 
 <h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Waving%20hand/Default/3D/waving_hand_3d_default.png" width="32" align="center"/>&nbsp; About</h2>
 
-I am an <b>MS in Artificial Intelligence</b> candidate at <b>Worcester Polytechnic Institute</b>, graduating <b>May 2026</b> with a final <b>GPA of 3.97</b>. I work on the systems side of modern AI: <b>mechanistic interpretability</b> of latent chain of thought, <b>TensorRT-optimized 3D perception</b>, and <b>multi-agent LLM pipelines</b> that actually ship.
+I am an ML research engineer in San Jose, CA. As an <b>AI Trainer Fellow at Handshake AI</b> I build long-horizon evaluation environments for frontier models. I am <b>co-first author</b> of <b>Interpreting Latent CoT Reasoning as Dynamical Systems</b> (<a href="https://arxiv.org/abs/2607.09698">arXiv 2607.09698</a>, poster at the <a href="https://icml.cc/virtual/2026/70325">ICML 2026 FoGen Workshop</a>). I hold an <b>M.S. in Artificial Intelligence from WPI</b> (May 2026, GPA 3.97). My work spans <b>mechanistic interpretability</b> of latent chain of thought, <b>TensorRT-optimized 3D perception</b>, and <b>multi-agent LLM pipelines</b> that ship.
 
 Before WPI, I spent two years as a <b>Lead DevOps Engineer at Persistent Systems</b> (<b>Top Talent 2024</b>, <b>Bravo Individual Award</b>), owning CI/CD and AWS/Azure infrastructure across <b>20+ production projects</b> with a <b>95% deploy-speed improvement</b>. That production instinct is the thing I bring to research: pipelines that do not break, checkpoints that do not get lost, results that are reproducible <b>28 out of 28 times</b>.
 
 <p>
-<img src="https://img.shields.io/badge/Currently-Submitted%20to%20ICML%202026%20Workshop-A06CFF?style=flat-square&labelColor=2D1B69"/>
-<img src="https://img.shields.io/badge/Open%20to-Full--time%20Summer%202026-E100FF?style=flat-square&labelColor=2D1B69"/>
+<img src="https://img.shields.io/badge/Currently-Frontier%20model%20evals%20%40%20Handshake%20AI-A06CFF?style=flat-square&labelColor=2D1B69"/>
+<img src="https://img.shields.io/badge/Open%20to-Full--time%20roles-E100FF?style=flat-square&labelColor=2D1B69"/>
 </p>
 
 </td>
@@ -58,9 +50,9 @@ Before WPI, I spent two years as a <b>Lead DevOps Engineer at Persistent Systems
 
 <img src="https://img.shields.io/badge/GPA-3.97%20%2F%204.00-7F00FF?style=for-the-badge&labelColor=2D1B69"/>
 <br/>
-<img src="https://img.shields.io/badge/Graduating-May%202026-E100FF?style=for-the-badge&labelColor=2D1B69"/>
+<img src="https://img.shields.io/badge/M.S.%20AI-WPI%202026-E100FF?style=for-the-badge&labelColor=2D1B69"/>
 <br/>
-<img src="https://img.shields.io/badge/Location-Worcester%2C%20MA-00C9FF?style=for-the-badge&labelColor=2D1B69"/>
+<img src="https://img.shields.io/badge/Location-San%20Jose%2C%20CA-00C9FF?style=for-the-badge&labelColor=2D1B69"/>
 
 </td>
 </tr>
@@ -136,9 +128,9 @@ Before WPI, I spent two years as a <b>Lead DevOps Engineer at Persistent Systems
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/3D/brain_3d.png" height="80" alt="Latent-CoT"/>
 </a>
 <h3>Latent-CoT as Dynamic Systems</h3>
-<sub><i>Algoverse Research Fellowship, Feb 2026 to present</i></sub>
+<sub><i>Algoverse Research Fellowship, Feb to Sep 2026 · <a href="https://arxiv.org/abs/2607.09698">arXiv</a> · ICML 2026 FoGen Workshop poster</i></sub>
 <p align="left">
-Reproduced <b>CODI self-distillation</b> and the <b>COCONUT 4-stage curriculum</b> as LoRA adapters on GPT-2, then ran a full <b>DMD + PHATE + UMAP</b> dynamical-systems analysis on 768-dim latent trajectories. Discovered architectural signatures: <b>DMD unstable mode fraction 41% (COCONUT) vs 85% (CODI)</b>, preserved across GSM8K and MATH.
+Reproduced <b>CODI self-distillation</b> and the <b>COCONUT 4-stage curriculum</b> as LoRA adapters on GPT-2, then ran a full <b>DMD + PHATE + UMAP</b> dynamical-systems analysis on 768-dim latent trajectories. Found opposite stability signatures. <b>CODI behaves as a stable attractor and COCONUT as an unstable expanding system</b> (DMD unstable-mode fraction 41% vs 85%), preserved across GSM8K and MATH.
 </p>
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -152,7 +144,7 @@ Reproduced <b>CODI self-distillation</b> and the <b>COCONUT 4-stage curriculum</
 <img src="https://raw.githubusercontent.com/Sonica-B/VLAs/main/results/figures/pub_saliency_grid.png" height="80" alt="VLAs saliency grid"/>
 </a>
 <h3>VLAs: Where Does Physics Live?</h3>
-<sub><i>ICML 2026 Workshop Submission, independent research</i></sub>
+<sub><i>Independent research, in progress</i></sub>
 <p align="left">
 Spatial probing of physical reasoning in <b>Qwen2.5-VL</b>, <b>InternVL 2.5</b>, and <b>LLaVA-OneVision</b>. Physics saliency maps across encoder, projection, and LLM layers, plus a <b>5-condition factorial LoRA ablation</b> to find the leverage point for physical intuition.
 </p>
@@ -170,7 +162,7 @@ Spatial probing of physical reasoning in <b>Qwen2.5-VL</b>, <b>InternVL 2.5</b>,
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Balance%20scale/3D/balance_scale_3d.png" height="80" alt="FairPrep"/>
 </a>
 <h3>FairPrep: Fairness in Table Union Search</h3>
-<sub><i>WPI, Dr. Roee Shraga, BSF-funded, 2025 to present</i></sub>
+<sub><i>Co-first author · submitted to DASHSys 2026 · WPI, Dr. Roee Shraga, Jan 2025 to May 2026</i></sub>
 <p align="left">
 Adapted <b>FairEM</b> (VLDB 2023) to annotator-level fairness. Discovered <b>Non-Native annotators biased on hard questions</b> (Fisher p=0.031, <b>6 of 10 FairEM metrics unfair</b>). Robust across 5 cleaning strategies, 10K-shuffle permutation tests, BH-FDR-corrected.
 </p>
@@ -219,9 +211,9 @@ Adapted <b>FairEM</b> (VLDB 2023) to annotator-level fairness. Discovered <b>Non
 <img src="https://raw.githubusercontent.com/Sonica-B/Medical-Triage-HIL/main/output/visualizations/30000012.txt_esi_confidence.png" height="80" alt="Medical Triage HIL"/>
 </a>
 <h3>Medical-Triage-HIL: Adaptive LLM Triage</h3>
-<sub><i>WPI, 2025 to present</i></sub>
+<sub><i>WPI directed research, Jan to Aug 2025</i></sub>
 <p align="left">
-Confidence-aware LLM framework with dual-channel human-in-the-loop validation for <b>ESI</b> scoring: <b>+25% triage accuracy</b>, <b>40% fewer false escalations</b>, <b>50% less miscommunication</b>, <b>2.3x faster</b> decision flow.
+Confidence-aware LLM framework with dual-channel human-in-the-loop validation for <b>ESI</b> scoring: <b>+25% triage accuracy</b>, <b>40% fewer false escalations</b>, <b>50% less miscommunication</b>, <b>2.3x</b> better patient-provider alignment.
 </p>
 <p>
 <img src="https://img.shields.io/badge/LLM-000000?style=flat-square&logo=ollama&logoColor=white"/>
@@ -416,7 +408,7 @@ Multi-agent system using <b>LangGraph + Amazon Bedrock RAG</b>, AWS Step Functio
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Microscope/3D/microscope_3d.png" width="48"/>
 <br/><b>Research Engineer</b><br/>
-<sub>Mech. interpretability, gen vision</sub>
+<sub>LLM evals, interpretability</sub>
 </td>
 </tr>
 <tr>
