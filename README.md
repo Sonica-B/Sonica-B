@@ -115,6 +115,34 @@ Before WPI, I spent two years as a <b>Lead DevOps Engineer at Persistent Systems
 
 <br/>
 
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
+</div>
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20Americas/3D/globe_showing_americas_3d.png" width="32" align="center"/>&nbsp; Open-source contributions</h2>
+
+<div align="center">
+
+<a href="https://github.com/search?q=is%3Apr+author%3ASonica-B+is%3Amerged+-user%3ASonica-B&type=pullrequests"><img alt="Merged upstream PRs" src="https://img.shields.io/badge/Merged%20upstream%20PRs-6-7F00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=2D1B69"/></a>
+<a href="https://github.com/search?q=is%3Apr+author%3ASonica-B+is%3Aopen+-user%3ASonica-B&type=pullrequests"><img alt="Open upstream PRs" src="https://img.shields.io/badge/Open%20upstream%20PRs-34-A06CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=2D1B69"/></a>
+
+</div>
+
+Bug fixes with regression tests in ML infrastructure I use, found by running the packages on Windows and CPU. Merged so far:
+
+| Project | What the fix does | PR |
+|---|---|---|
+| NVIDIA NeMo Agent Toolkit | A module-level import made seven built-in tools silently fail to register on a plain install | [#2474](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2474) |
+| PyTorch torchtitan | `download_hf_assets` mutated its argument and raised an unreadable tuple error | [#5621](https://github.com/pytorch/torchtitan/pull/5621) |
+| Roboflow supervision | `ComparisonAnnotator` drew nothing on grayscale frames | [#2803](https://github.com/roboflow/supervision/pull/2803) |
+| A2A Python SDK | Malformed JSON-RPC error responses crashed the client instead of raising typed A2A errors | [#1375](https://github.com/a2aproject/a2a-python/pull/1375) |
+| NVIDIA Isaac Lab | `configure_logging` left the old log file open on Windows, so it could not be deleted | [#8809](https://github.com/isaac-sim/IsaacLab/pull/8809) |
+| Hugging Face Hub | `hf cache verify` crashed when its output was piped on Windows | [#5255](https://github.com/huggingface/huggingface_hub/pull/5255) |
+
+Open PRs under review at Google (Flax, Optax, ADK), Microsoft (ONNX Runtime, ONNX Script, Olive, MarkItDown), Meta (ExecuTorch, TorchRL, torchao), NVIDIA (TensorRT-LLM), AWS (MCP servers), Anthropic (Claude Agent SDK), Hugging Face, MLflow, DeepSpeed, Ray and others: see the [full list](https://github.com/search?q=is%3Apr+author%3ASonica-B+is%3Aopen+-user%3ASonica-B&type=pullrequests).
+
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2&section=header" width="100%"/>
 </div>
